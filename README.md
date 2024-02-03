@@ -11,4 +11,4 @@ Models used perform text summarization and using parameters,
 6) Redundancy(-)
 topsis_score and ranking are calculated
 
-**Link For Kaggle notebook: **
+**Link For Kaggle notebook: https://www.kaggle.com/code/shauryachichra5/text-summarization-model-comparison-using-topsis**
